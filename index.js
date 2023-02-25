@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Sac-Hotline!</title>
-        <link rel="icon" type="image/png" href="https://media.glassdoor.com/sqll/5705884/tahto-squarelogo-1646295180355.png"/>
+        <link rel="icon" type="image/png" href="https://ri.oi.com.br/wp-content/themes/mziq_oi_ri/assets/img/logo-new-2.png"/>
       </Head>
 
       <main>
